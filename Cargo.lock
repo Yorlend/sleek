@@ -193,7 +193,7 @@ dependencies = [
 [[package]]
 name = "sqlformat"
 version = "0.3.0"
-source = "git+https://github.com/Yorlend/sqlformat-rs#1cc9747d14e396cbe76476c8f12a0fce4b3fa089"
+source = "git+https://github.com/Yorlend/sqlformat-rs#8dc67cf7206322cbf8568ca28f72e00b800bf7c3"
 dependencies = [
  "nom",
  "once_cell",
